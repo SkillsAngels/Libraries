@@ -1,6 +1,6 @@
 from .. import loader
 
-class LHF(Loader.Library):
+class LHF_Lib(Loader.Library):
     developer = "@lotosiiiik"
     version = (0, 0, 1)
     
